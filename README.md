@@ -43,8 +43,17 @@ Tekitou is a complete rewrite of [Gaffer](https://github.com/jaamesd/Gaffer), ta
 
 ## Installation
 
-1. Download `Tekitou.app` from Releases
-2. Move to `/Applications`
+### Homebrew (recommended)
+
+```bash
+brew tap jaamesd/tap
+brew install --cask tekitou
+```
+
+### Manual
+
+1. Download `Tekitou.zip` from [Releases](https://github.com/jaamesd/Tekitou/releases)
+2. Unzip and move `Tekitou.app` to `/Applications`
 3. Launch from Applications folder
 
 ## Building from source
