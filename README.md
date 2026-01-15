@@ -4,7 +4,11 @@ A lightweight macOS menubar app that adds black rounded corners and menubar to y
 
 ## Why Tekitou?
 
-macOS Tahoe introduced aggressively rounded window corners, but the screen edges remain sharp. Tekitou draws subtle black overlays at the corners and menubar area, creating visual harmony between your windows and screen edges.
+Apple gave Tahoe big, friendly, rounded window corners. Lovely! But they forgot about the screen edges, which stay stubbornly sharp. So now your wallpaper photobombs every corner—little slivers of beach sunset peeking out from behind your dark Terminal like "hey, remember me?"
+
+It's... not a great look.
+
+Tekitou paints the corners black so your wallpaper knows its place. Match the corner radius to your window style (16px, 21px, or 26px—Tahoe can't pick just one), and suddenly everything lines up like it should have from the start.
 
 ### Tekitou vs Gaffer
 
